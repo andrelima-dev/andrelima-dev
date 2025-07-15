@@ -50,11 +50,6 @@
 </div>
 
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="gráfico de contribuição do pacman" src="https://raw.githubusercontent.com/andregoat7/andregoat7/output/pacman-contribution-graph.svg">
-</picture>
 
 
-snake gif](https://github.com/andregoat71/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+
