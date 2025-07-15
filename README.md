@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">Meu nome é André Lima ,Sou um desenvolvedor junior</p>
+<p align="left">André Lima — Junior Developer | Engineering Student | Open Source Enthusiast
+
+</p>
 
 ###
 
