@@ -14,7 +14,7 @@
   ✨ Universitário em BICT - Engenharia da Computação na UFMA <br>
   📚 Atualmente focado em aprender JavaScript e seu ecossistema (TypeScript, React, Node.js, etc).<br>
   🎯 Goals: Evoluir como desenvolvedor full stack e contribuir com projetos open source.<br>
-  ❄️ Fun fact: Sempre tentando transformar café em código ☕
+  
 </p>
 
 
