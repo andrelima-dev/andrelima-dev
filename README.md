@@ -18,7 +18,7 @@
 </p>
 
 
-<h2 align="left">Atualmente codando em </h2>
+<h2 align="left">Atualmente codando em</h2>
 
 ###
 
