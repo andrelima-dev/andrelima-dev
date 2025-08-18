@@ -37,7 +37,7 @@
 ###
 
 
-<h2 align="left">Minhas redes para contato</h2>
+<h2 align="left">Minhas redes para contato </h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/andr%C3%A9-lima-7822042a5" target="_blank">
