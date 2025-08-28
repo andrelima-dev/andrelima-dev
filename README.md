@@ -11,9 +11,9 @@
 <h2 align="left">Sobre Mim</h2>
 
 <p align="left">
-🎓 Graduando em Engenharia da Computação (BICT) na UFMA  
+🎓 Graduando em Engenharia da Computação (BICT) na UFMA <br>
+<br>
 📌 Focado em desenvolvimento com JavaScript, TypeScript, React e Node.js  
-
 </p>
 
 
