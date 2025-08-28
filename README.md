@@ -11,10 +11,9 @@
 <h2 align="left">Sobre Mim</h2>
 
 <p align="left">
-  ✨ Universitário em BICT - Engenharia da Computação na UFMA <br>
-  📚 Atualmente focado em aprender JavaScript e seu ecossistema (TypeScript, React, Node.js, etc).<br>
-  🎯 Goals: Evoluir como desenvolvedor full stack e contribuir com projetos open source.<br>
-  
+🎓 Graduando em Engenharia da Computação (BICT) na UFMA  
+📌 Focado em desenvolvimento com JavaScript, TypeScript, React e Node.js  
+
 </p>
 
 
@@ -42,9 +41,6 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/andr%C3%A9-lima-7822042a5" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/andrezxp" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
   <a href="andre444dias@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
