@@ -15,7 +15,7 @@
 <br>
 📌 Focado em desenvolvimento com JavaScript, TypeScript, React e Node.js  
 </p>
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="583d7735-0745-4e7d-aea3-61b9b3b8c422" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <h2 align="left">Atualmente codando em </h2>
 
