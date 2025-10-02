@@ -1,9 +1,9 @@
-<h1 align="left">Olá 👋Tudo bem?</h1>
+<h1 align="left">Olá 👋 Tudo bem?</h1>
 
 ###
 
-<p align="left">André Lima — Junior Developer | Engineering Student | Open Source Enthusiast
-
+<p align="left">
+André Lima — Junior Developer | Engineering Student | Open Source Enthusiast
 </p>
 
 ###
@@ -11,42 +11,55 @@
 <h2 align="left">Sobre Mim</h2>
 
 <p align="left">
-🎓 Graduando em Engenharia da Computação (BICT) na UFMA <br>
+🎓 Estudante de Engenharia da Computação (BICT) na UFMA <br>
 <br>
-📌 Focado em desenvolvimento com JavaScript, TypeScript, React e Node.js  
-</p>
+💻 Desenvolvimento de soluções web e desktop com ênfase em boas práticas de programação, trabalhando com JavaScript, TypeScript, React, Node.js, Python e PostgreSQL.  
 
-<h2 align="left">Atualmente codando em </h2>
+</p>
 
 ###
 
+<h2 align="left">🚀 Linguagens / Frameworks / Bibliotecas</h2>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="Electron logo" />
+  <img width="12" />
+</div>
+
+
 </div>
 
 ###
 
+<h2 align="left">🗄️ Bancos de Dados</h2>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
+</div>
 
-<h2 align="left">Minhas redes para contato</h2>
+###
 
+<h2 align="left">🌍 Minhas redes para contato</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/andr%C3%A9-lima-7822042a5" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="andrelimadev0@gmail.com">
+  <a href="mailto:andrelimadev0@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
-
-</div>
-
 
 
