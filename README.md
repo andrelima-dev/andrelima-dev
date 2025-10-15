@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-André Lima — Junior Developer | Engineering Student | Open Source Enthusiast
+André Lima — System Developer | Engineering Student | Open Source Enthusiast
 </p>
 
 ###
