@@ -59,6 +59,7 @@ André Lima — System Developer | Engineering Student | Open Source Enthusiast
   <a href="mailto:andrelimadev0@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
+  
 </div>
 
 
