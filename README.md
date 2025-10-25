@@ -50,16 +50,16 @@ André Lima — System Developer | Engineering Student | Open Source Enthusiast
 </div>
 
 ###
-
 <h2 align="left">🌍 Minhas redes para contato</h2>
+
 <div align="left">
-  <a href="https://www.linkedin.com/in/andr%C3%A9-lima-7822042a5" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/andr%C3%A9-lima-7822042a5" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn logo" />
   </a>
-  <a href="mailto:andrelimadev0@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  <a href="mailto:andrelimadev0@gmail.com" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45" height="45" alt="Gmail logo" />
   </a>
-  
 </div>
+
 
 
