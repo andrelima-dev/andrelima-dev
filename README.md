@@ -44,10 +44,7 @@ André Lima — System Developer | Engineering Student | Open Source Enthusiast
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js logo" />
   <img width="12" />
 </div>
-
-
 </div>
-
 ###
 
 <h2 align="left">🗄️ Bancos de Dados</h2>
